@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="onuchokri.CreditsController">
+   <children>
+      <VBox>
+         <children>
+            <HBox alignment="CENTER">
+               <children>
+                  <ImageView fitHeight="147.0" fitWidth="135.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@shadhin.jpg" />
+                     </image>
+                  </ImageView>
+                  <Label lineSpacing="1.5" prefHeight="172.0" prefWidth="285.0" text="Developer:&#10;Muhiminul Islam Shadhin &#10;( JavaFX &amp; Android Developer)&#10;&#10;e-Mail: smi.shadhin@gmail.com&#10;Mob:- +8801677234133" textAlignment="CENTER" textFill="#06570c">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </HBox.margin>
+                     <padding>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </padding>
+                  </Label>
+               </children>
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </VBox.margin>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+   </padding>
+</AnchorPane>

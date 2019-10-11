@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c220ef6-de8e-4c05-81e5-ca6ccd97c550" name="Default" comment="" />
+    <ignored path="vrctyWeb.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vrctyWeb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="179" column="74" selection-start-line="179" selection-start-column="74" selection-end-line="179" selection-end-column="74" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#aside#0;n#article#0;n#main#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#aside#0;n#article#0;n#main#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1475385687158" expanded="true" signature="2916:3037" ph="SELECT title... users" />
+                <marker date="1475385687158" expanded="true" signature="3963:4011" ph="select imgpa... photo" />
+                <marker date="1475385687158" expanded="false" signature="4245:4289" ph="..." />
+                <marker date="1475385687158" expanded="true" signature="4315:4575" ph="..." />
+                <marker date="1475385687158" expanded="true" signature="5682:5803" ph="SELECT title... users" />
+                <marker date="1475385687158" expanded="true" signature="7137:7185" ph="select imgpa... photo" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/approval.php" />
+        <option value="$PROJECT_DIR$/public/delete.php" />
+        <option value="$PROJECT_DIR$/public/approvalstatus.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/public/modal_course.php" />
+        <option value="$PROJECT_DIR$/public/aaaaa.php" />
+        <option value="$PROJECT_DIR$/public/inputcourse.php" />
+        <option value="$PROJECT_DIR$/public/teacherlist.php" />
+        <option value="$PROJECT_DIR$/public/academic_information.php" />
+        <option value="$PROJECT_DIR$/public/course.php" />
+        <option value="$PROJECT_DIR$/public/teacherlistforadmin.php" />
+        <option value="$PROJECT_DIR$/public/changepassword.php" />
+        <option value="$PROJECT_DIR$/public/sendmail.php" />
+        <option value="$PROJECT_DIR$/public/action_for_t_o_course.php" />
+        <option value="$PROJECT_DIR$/public/superadmin.php" />
+        <option value="$PROJECT_DIR$/public/inputcourseforadmin.php" />
+        <option value="$PROJECT_DIR$/public/offeredcourseforteacher.php" />
+        <option value="$PROJECT_DIR$/public/style.css" />
+        <option value="$PROJECT_DIR$/public/showteacherdetails.php" />
+        <option value="$PROJECT_DIR$/public/css/stylect.css" />
+        <option value="$PROJECT_DIR$/public/action_c_i_u_forteacher.php" />
+        <option value="$PROJECT_DIR$/public/styleadmin.css" />
+        <option value="$PROJECT_DIR$/public/report/pages/classsizeinfo.php" />
+        <option value="$PROJECT_DIR$/public/report/pages/dayoffinfo.php" />
+        <option value="$PROJECT_DIR$/public/report/pages/courseoutline.php" />
+        <option value="$PROJECT_DIR$/public/allofferedcourse.php" />
+        <option value="$PROJECT_DIR$/public/viewandupdatecoursedetailforteacher.php" />
+        <option value="$PROJECT_DIR$/public/report/pages/teacherinformation.php" />
+        <option value="$PROJECT_DIR$/test/index.php" />
+        <option value="$PROJECT_DIR$/public/report/actions/docgen/teacherandcourseinformationaction.php" />
+        <option value="$PROJECT_DIR$/public/report/pages/teacherandcourseinfo.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/public/report/pages/offeredcourse.php" />
+        <option value="$PROJECT_DIR$/public/report/pages/crinfo.php" />
+        <option value="$PROJECT_DIR$/public/actions/offdayupdate.php" />
+        <option value="$PROJECT_DIR$/ere.php" />
+        <option value="$PROJECT_DIR$/public/makecourseoffer.php" />
+        <option value="$PROJECT_DIR$/public/inputallcourses.php" />
+        <option value="$PROJECT_DIR$/public/registration_from.php" />
+        <option value="$PROJECT_DIR$/public/actions/updateprofile.php" />
+        <option value="$PROJECT_DIR$/public/updateprofile.php" />
+        <option value="$PROJECT_DIR$/public/teacher.php" />
+        <option value="$PROJECT_DIR$/includes/functions.php" />
+        <option value="$PROJECT_DIR$/public/report/actions/offeredcourseaction.php" />
+        <option value="$PROJECT_DIR$/public/report/actions/teacherinformationaction.php" />
+        <option value="$PROJECT_DIR$/public/report/actions/teacherandcourseinformationaction.php" />
+        <option value="$PROJECT_DIR$/public/report/actions/crinfoaction.php" />
+        <option value="$PROJECT_DIR$/public/generatereport.php" />
+        <option value="$PROJECT_DIR$/public/admin.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="63e7191a-9d88-4615-9443-f9bd40dbef27" name="phpstorm" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vrctyWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vrctyWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vrctyWeb" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vrctyWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vrctyWeb" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vrctyWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vrctyWeb" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vrctyWeb\public" />
+      <recent name="C:\xampp\htdocs\vrctyWeb\public\report\actions" />
+      <recent name="C:\xampp\htdocs\vrctyWeb\public\report\pages" />
+      <recent name="C:\xampp\htdocs\vrctyWeb\public\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vrctyWeb" />
+      <recent name="C:\xampp\htdocs\vrctyWeb\public" />
+      <recent name="C:\xampp\htdocs\vrctyWeb\public\report\actions\logo" />
+      <recent name="C:\xampp\htdocs\vrctyWeb\public\logo" />
+      <recent name="C:\xampp\htdocs\vrctyWeb\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.vrctyWeb">
+    <configuration default="false" name="test.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vrctyWeb/test.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="offeredcourseforteacher.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vrctyWeb/public/offeredcourseforteacher.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="allofferedcourse.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vrctyWeb/public/allofferedcourse.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="ere.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vrctyWeb/ere.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vrctyWeb/test/index.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="phpstorm" start_url="/vrctyWeb">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="vrctyWeb" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="phpstorm" start_url="/vrctyWeb/public">
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.vrctyWeb" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.offeredcourseforteacher.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.allofferedcourse.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.ere.php" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.ere.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.allofferedcourse.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.allofferedcourse.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c220ef6-de8e-4c05-81e5-ca6ccd97c550" name="Default" comment="" />
+      <created>1470847055146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1470847055146</updated>
+      <workItem from="1470847056907" duration="3188000" />
+      <workItem from="1470851046302" duration="9280000" />
+      <workItem from="1470860852568" duration="2696000" />
+      <workItem from="1470885276570" duration="12601000" />
+      <workItem from="1470937395067" duration="14263000" />
+      <workItem from="1470973393041" duration="6410000" />
+      <workItem from="1470982018447" duration="3989000" />
+      <workItem from="1470986543802" duration="21802000" />
+      <workItem from="1471013620138" duration="160000" />
+      <workItem from="1471017358760" duration="6266000" />
+      <workItem from="1471025477124" duration="777000" />
+      <workItem from="1471060868717" duration="6898000" />
+      <workItem from="1471075042796" duration="849000" />
+      <workItem from="1471097153124" duration="14547000" />
+      <workItem from="1471161279617" duration="656000" />
+      <workItem from="1471165745168" duration="773000" />
+      <workItem from="1471241673905" duration="1403000" />
+      <workItem from="1471247013292" duration="8829000" />
+      <workItem from="1471258592522" duration="7441000" />
+      <workItem from="1471270078065" duration="1009000" />
+      <workItem from="1471278078357" duration="284000" />
+      <workItem from="1471327117657" duration="425000" />
+      <workItem from="1471338483966" duration="607000" />
+      <workItem from="1471404997112" duration="813000" />
+      <workItem from="1471503478948" duration="1000000" />
+      <workItem from="1471504517485" duration="364000" />
+      <workItem from="1471630743294" duration="3527000" />
+      <workItem from="1471640970355" duration="10000" />
+      <workItem from="1471655967159" duration="8864000" />
+      <workItem from="1471724376243" duration="4138000" />
+      <workItem from="1471733313578" duration="3104000" />
+      <workItem from="1471738903305" duration="932000" />
+      <workItem from="1471802582146" duration="1465000" />
+      <workItem from="1471815840425" duration="379000" />
+      <workItem from="1472059513231" duration="536000" />
+      <workItem from="1474277693290" duration="14624000" />
+      <workItem from="1474292931958" duration="18000" />
+      <workItem from="1474292978276" duration="20782000" />
+      <workItem from="1474316913656" duration="1443000" />
+      <workItem from="1474366386110" duration="33277000" />
+      <workItem from="1474438748699" duration="612000" />
+      <workItem from="1474443358188" duration="975000" />
+      <workItem from="1474451049260" duration="8151000" />
+      <workItem from="1474463586366" duration="15729000" />
+      <workItem from="1474483509025" duration="886000" />
+      <workItem from="1474619554315" duration="12596000" />
+      <workItem from="1474633146382" duration="41000" />
+      <workItem from="1474636152207" duration="9405000" />
+      <workItem from="1474645893106" duration="1411000" />
+      <workItem from="1474647654618" duration="576000" />
+      <workItem from="1474649844363" duration="16038000" />
+      <workItem from="1474696206454" duration="7339000" />
+      <workItem from="1474705134055" duration="12513000" />
+      <workItem from="1474780127549" duration="1258000" />
+      <workItem from="1474787767599" duration="3196000" />
+      <workItem from="1474860134492" duration="2773000" />
+      <workItem from="1474871782369" duration="3508000" />
+      <workItem from="1474947013387" duration="6117000" />
+      <workItem from="1474990188066" duration="4242000" />
+      <workItem from="1475039862402" duration="916000" />
+      <workItem from="1475155685234" duration="2040000" />
+      <workItem from="1475385087762" duration="1138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="331889000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17862372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39719626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/sendmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/action_for_t_o_course.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="98" column="64" selection-start-line="98" selection-start-column="64" selection-end-line="98" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/photo/Capture.PNG" />
+    <entry file="file://$PROJECT_DIR$/public/superadmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="93" column="30" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="196" column="1" selection-start-line="196" selection-start-column="1" selection-end-line="196" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/allofferedcourse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/actions/actionforinputallcourses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/stylect.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/approvalstatus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/forgetPassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/teacherlistforadmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/action_c_i_u_forteacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="53" column="169" selection-start-line="53" selection-start-column="139" selection-end-line="53" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/styleadmin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/dayoffinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3774">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/showteacherdetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="65" column="5" selection-start-line="50" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/offeredcourseforteacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/inputcourseforadmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="144" column="24" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/courseoutline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/classsizeinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/viewandupdatecoursedetailforteacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="130" column="8" selection-start-line="130" selection-start-column="8" selection-end-line="200" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bootstrap-chosen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="86" column="30" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/offeredcoursebacup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="56" selection-start-line="27" selection-start-column="4" selection-end-line="30" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/generatereportbacup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          <folding>
+            <marker date="1474400417315" expanded="true" signature="5342:5409" ph="select cours... offeredcourse" />
+            <marker date="1474400417315" expanded="true" signature="6229:6278" ph="select secti... " />
+            <marker date="1474400417315" expanded="true" signature="6625:6715" ph="select * fro... allcourses" />
+            <marker date="1474400417315" expanded="true" signature="7464:7665" ph="..." />
+            <marker date="1474400417315" expanded="true" signature="7804:7885" ph="select id fr... offeredcourse" />
+            <marker date="1474400417315" expanded="true" signature="8672:8739" ph="select cours... offeredcourse" />
+            <marker date="1474400417315" expanded="true" signature="9559:9608" ph="select secti... " />
+            <marker date="1474400417315" expanded="true" signature="9955:10017" ph="select * fro... allcourses" />
+            <marker date="1474400417315" expanded="true" signature="10766:10967" ph="..." />
+            <marker date="1474400417315" expanded="true" signature="11106:11187" ph="select id fr... offeredcourse" />
+            <marker date="1474400417315" expanded="true" signature="11974:12041" ph="select cours... offeredcourse" />
+            <marker date="1474400417315" expanded="true" signature="12861:12910" ph="select secti... " />
+            <marker date="1474400417315" expanded="true" signature="13257:13325" ph="select * fro... allcourses" />
+            <marker date="1474400417315" expanded="true" signature="14074:14275" ph="..." />
+            <marker date="1474400417315" expanded="true" signature="14414:14495" ph="select id fr... offeredcourse" />
+            <marker date="1474400417315" expanded="true" signature="15259:15326" ph="select cours... offeredcourse" />
+            <marker date="1474400417315" expanded="true" signature="16146:16195" ph="select secti... " />
+            <marker date="1474400417315" expanded="true" signature="16542:16576" ph="select * fro... allcourses" />
+            <marker date="1474400417315" expanded="true" signature="17330:17521" ph="..." />
+            <marker date="1474400417315" expanded="true" signature="17660:17741" ph="select id fr... offeredcourse" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/offeredcourse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/teacherinformation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/crinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="254" column="14" selection-start-line="71" selection-start-column="0" selection-end-line="254" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/actions/docgen/docofferedcourseaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1612">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ere.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/makecourseoffer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1581">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/inputallcourses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="448" column="59" selection-start-line="448" selection-start-column="59" selection-end-line="448" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/pages/teacherandcourseinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/actions/offdayupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/teacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="159" column="51" selection-start-line="159" selection-start-column="51" selection-end-line="159" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/updateprofile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/db_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="82" column="15" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="15" />
+          <folding>
+            <marker date="1470899274000" expanded="true" signature="892:901" ph="..." />
+            <marker date="1470899274000" expanded="true" signature="1174:1219" ph="SELECT id FR... users" />
+            <marker date="1470899274000" expanded="true" signature="1534:1585" ph="SELECT passw... users" />
+            <marker date="1470899274000" expanded="true" signature="1897:1933" ph="SELECT appro... users" />
+            <marker date="1470899274000" expanded="true" signature="2279:2311" ph="SELECT page users" />
+            <marker date="1470899274000" expanded="true" signature="3092:3101" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/registration_from.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="509" column="88" selection-start-line="509" selection-start-column="88" selection-end-line="509" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/allofferedcourse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2023">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+          <folding>
+            <marker date="1474395946514" expanded="true" signature="565:577" ph="..." />
+            <marker date="1474395946514" expanded="true" signature="656:666" ph="..." />
+            <marker date="1474395946514" expanded="true" signature="842:874" ph="select emid users" />
+            <marker date="1474395946514" expanded="true" signature="1324:1412" ph="insert into coursetaken... " />
+            <marker date="1474395946514" expanded="true" signature="1513:1590" ph="select id fr... coursetaken" />
+            <marker date="1474395946514" expanded="true" signature="1891:1976" ph="insert into coursedetails... " />
+            <marker date="1474395946514" expanded="true" signature="2111:2163" ph="update offer... " />
+            <marker date="1474395946514" expanded="true" signature="6577:6642" ph="select cours... offeredcourse" />
+            <marker date="1474395946514" expanded="true" signature="7406:7489" ph="select secti... " />
+            <marker date="1474395946514" expanded="true" signature="7811:7901" ph="select * fro... allcourses" />
+            <marker date="1474395946514" expanded="true" signature="8614:8815" ph="..." />
+            <marker date="1474395946514" expanded="true" signature="8946:9027" ph="select id fr... offeredcourse" />
+            <marker date="1474395946514" expanded="true" signature="11510:11575" ph="select cours... offeredcourse" />
+            <marker date="1474395946514" expanded="true" signature="12339:12422" ph="select secti... " />
+            <marker date="1474395946514" expanded="true" signature="12744:12806" ph="select * fro... allcourses" />
+            <marker date="1474395946514" expanded="true" signature="13519:13720" ph="..." />
+            <marker date="1474395946514" expanded="true" signature="13851:13932" ph="select id fr... offeredcourse" />
+            <marker date="1474395946514" expanded="true" signature="16388:16453" ph="select cours... offeredcourse" />
+            <marker date="1474395946514" expanded="true" signature="17217:17300" ph="select secti... " />
+            <marker date="1474395946514" expanded="true" signature="17622:17690" ph="select * fro... allcourses" />
+            <marker date="1474395946514" expanded="true" signature="18403:18604" ph="..." />
+            <marker date="1474395946514" expanded="true" signature="18735:18816" ph="select id fr... offeredcourse" />
+            <marker date="1474395946514" expanded="true" signature="21254:21319" ph="select cours... offeredcourse" />
+            <marker date="1474395946514" expanded="true" signature="22083:22166" ph="select secti... " />
+            <marker date="1474395946514" expanded="true" signature="22488:22522" ph="select * fro... allcourses" />
+            <marker date="1474395946514" expanded="true" signature="23240:23431" ph="..." />
+            <marker date="1474395946514" expanded="true" signature="23562:23643" ph="select id fr... offeredcourse" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/actions/teacherinformationaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1475156937112" expanded="true" signature="1890:1984" ph="SELECT title... users" />
+            <marker date="1475156937112" expanded="true" signature="3254:3563" ph="..." />
+            <marker date="1475156937112" expanded="true" signature="3280:3346" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/actions/teacherandcourseinformationaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="70" column="2" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+          <folding>
+            <marker date="1475157221104" expanded="true" signature="2555:2699" ph="SELECT title... users" />
+            <marker date="1475157221104" expanded="true" signature="3873:3920" ph="select offda... photo" />
+            <marker date="1475157221104" expanded="true" signature="4251:4301" ph="select * fro... coursetaken" />
+            <marker date="1475157221104" expanded="true" signature="4659:4769" ph="select cours... " />
+            <marker date="1475157221104" expanded="true" signature="5420:5871" ph="..." />
+            <marker date="1475157221104" expanded="true" signature="5467:5845" ph="..." />
+            <marker date="1475157221104" expanded="true" signature="5962:6012" ph="select * fro... coursetaken" />
+            <marker date="1475157221104" expanded="true" signature="6443:6553" ph="select cours... " />
+            <marker date="1475157221104" expanded="true" signature="7184:7218" ph="select * fro... allcourses" />
+            <marker date="1475157221104" expanded="true" signature="8101:8379" ph="..." />
+            <marker date="1475157221104" expanded="true" signature="9224:9351" ph="SELECT title... users" />
+            <marker date="1475157221104" expanded="true" signature="10659:10709" ph="select * fro... coursetaken" />
+            <marker date="1475157221104" expanded="true" signature="11099:11209" ph="select cours... " />
+            <marker date="1475157221104" expanded="true" signature="11866:12272" ph="..." />
+            <marker date="1475157221104" expanded="true" signature="11913:12246" ph="..." />
+            <marker date="1475157221104" expanded="true" signature="12371:12421" ph="select * fro... coursetaken" />
+            <marker date="1475157221104" expanded="true" signature="12892:13002" ph="select cours... " />
+            <marker date="1475157221104" expanded="true" signature="13682:13716" ph="select * fro... allcourses" />
+            <marker date="1475157221104" expanded="true" signature="14680:14958" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/actions/offeredcourseaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="176" column="8" selection-start-line="176" selection-start-column="8" selection-end-line="176" selection-end-column="8" />
+          <folding>
+            <marker date="1475156580882" expanded="true" signature="981:1109" ph="..." />
+            <marker date="1475156580882" expanded="false" signature="1034:1049" ph="..." />
+            <marker date="1475156580882" expanded="true" signature="2543:2613" ph="select * fro... allcourses" />
+            <marker date="1475156580882" expanded="true" signature="2952:3031" ph="select * fro... offeredcourse" />
+            <marker date="1475156580882" expanded="true" signature="3979:4153" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/report/actions/crinfoaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="164" column="20" selection-start-line="164" selection-start-column="20" selection-end-line="164" selection-end-column="20" />
+          <folding>
+            <marker date="1475157618575" expanded="true" signature="2266:2331" ph="select cours... allcourses" />
+            <marker date="1475157618575" expanded="true" signature="2777:2873" ph="select * fro... offeredcourse" />
+            <marker date="1475157618575" expanded="true" signature="3350:3399" ph="select id fr... coursetaken" />
+            <marker date="1475157618575" expanded="true" signature="3744:3814" ph="select crnam... coursedetails" />
+            <marker date="1475157618575" expanded="true" signature="4535:4875" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/generatereport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="359" column="96" selection-start-line="359" selection-start-column="96" selection-end-line="359" selection-end-column="96" />
+          <folding>
+            <marker date="1475157695159" expanded="false" signature="2971:2981" ph="..." />
+            <marker date="1475157695159" expanded="false" signature="3094:3104" ph="..." />
+            <marker date="1475157695159" expanded="false" signature="3236:3246" ph="..." />
+            <marker date="1475157695159" expanded="false" signature="3382:3392" ph="..." />
+            <marker date="1475157695159" expanded="false" signature="3505:3515" ph="..." />
+            <marker date="1475157695159" expanded="false" signature="3635:3645" ph="..." />
+            <marker date="1475157695159" expanded="false" signature="3770:3780" ph="..." />
+            <marker date="1475157695159" expanded="true" signature="10211:10308" ph="SELECT * FRO... allcourses" />
+            <marker date="1475157695159" expanded="true" signature="11071:11336" ph="..." />
+            <marker date="1475157695159" expanded="true" signature="11540:11608" ph="SELECT * FRO... allcourses" />
+            <marker date="1475157695159" expanded="true" signature="12371:12636" ph="..." />
+            <marker date="1475157695159" expanded="true" signature="12841:12915" ph="SELECT * FRO... allcourses" />
+            <marker date="1475157695159" expanded="true" signature="13678:13943" ph="..." />
+            <marker date="1475157695159" expanded="true" signature="14125:14173" ph="SELECT * FRO... allcourses" />
+            <marker date="1475157695159" expanded="true" signature="14936:15201" ph="..." />
+            <marker date="1475157695159" expanded="true" signature="20311:20450" ph="SELECT title... users" />
+            <marker date="1475157695159" expanded="true" signature="22015:22374" ph="..." />
+            <marker date="1475157695159" expanded="true" signature="22040:22164" ph="..." />
+            <marker date="1475157695159" expanded="true" signature="22610:22720" ph="SELECT title... users" />
+            <marker date="1475157695159" expanded="true" signature="24285:24644" ph="..." />
+            <marker date="1475157695159" expanded="true" signature="24310:24434" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="179" column="74" selection-start-line="179" selection-start-column="74" selection-end-line="179" selection-end-column="74" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#aside#0;n#article#0;n#main#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#aside#0;n#article#0;n#main#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1475385687158" expanded="true" signature="2916:3037" ph="SELECT title... users" />
+            <marker date="1475385687158" expanded="true" signature="3963:4011" ph="select imgpa... photo" />
+            <marker date="1475385687158" expanded="false" signature="4245:4289" ph="..." />
+            <marker date="1475385687158" expanded="true" signature="4315:4575" ph="..." />
+            <marker date="1475385687158" expanded="true" signature="5682:5803" ph="SELECT title... users" />
+            <marker date="1475385687158" expanded="true" signature="7137:7185" ph="select imgpa... photo" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

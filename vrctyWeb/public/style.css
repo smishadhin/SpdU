@@ -1,0 +1,197 @@
+.login{
+    margin-top: 20px;
+}
+
+.form-control {
+    border: 1px solid #24B24A;
+}
+
+.btn-default:hover {
+    color: #333;
+    background-color: #24B24A;
+    border-color: #24B24A;
+}
+
+.Login_header h2{
+	text-transform:uppercase;
+	color:#09509E;
+}
+.Login_header h3{
+  background-color: #ECEBEB;
+  text-align: center;
+  border-radius: 10px;
+	color:#24B24A;
+}
+.wrapper_login{
+width: 600px;
+height: 380px;
+margin: 0 auto;
+border: 4px solid #E5E5E5;
+border-radius: 5px;
+margin-top: 15px;
+background: #ffffff;
+}
+body {
+    background-color: #F2F2F2;
+}
+
+/*  Overlay  */
+
+.team_member img{
+	width:18%;
+	height:auto;
+}
+.team_member{
+	position:relative;
+	overflow:hidden;
+}
+.team_member:hover
+.team_overlay{
+	top:0;
+}
+
+.team_overlay{
+	position:absolute;
+	background:rgba(0,0,0,.5);
+	width:100%;
+	height:100%;
+	top:-100%;
+	transition:.5s;
+}
+.team_details{
+	position:absolute;
+	left:10%;
+	bottom:-100%;
+	transition:.5s;
+}
+.team_member:hover
+.team_details{
+	bottom:35%;
+}
+
+.team_details h3{
+	width:200px;
+	color:#fff;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+	line-height:17px;
+}
+.team_details p{
+width:200px;
+	color:#fff;
+	text-align:center;
+	font-size:14px;
+	line-height:15px;
+}
+.team{
+	margin-top: 25px;
+}
+.footer{
+	padding: 15px 0px;
+}
+.footer h5{
+	text-align: center;
+font-size: 12px;
+line-height: 14px;
+color: #A0A0A0;
+font-weight: bold;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+    margin-top: 3px;
+    display: block;
+  }
+.images{
+  width: auto;
+  height: 200px;
+}
+
+
+/*
+	End Log In
+
+*/
+
+
+/*
+
+	Registration Form
+	
+*/
+
+
+.table-responsive {
+    margin: 0 auto;
+    width: 500px;
+	background-color:#fff;
+	padding: 25px 20px;
+	 border: 2px solid #cecece;
+    border-radius: 5px;
+}
+
+.registration_table{
+
+	margin:0 auto;
+}
+
+.text{
+	padding:0 10px;
+	width: 400px;
+margin-top: 10px;
+}
+
+.checkbox input[type="checkbox"],
+ .checkbox-inline input[type="checkbox"], 
+ .radio input[type="radio"], 
+ .radio-inline input[type="radio"] {
+	outline: none;
+}
+
+.registration_from_control{
+	border: 1px solid #24b24a;
+	font-size: 15px;
+line-height: 17px;
+font-weight: bold;
+font-family: arial;
+color: #939393;
+}
+
+.text_input{
+	font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 18px;
+}
+
+.registration_from_cntrol:focus{
+	border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+}
+
+.text_image{
+		font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 18px;
+}
+
+textarea::-webkit-input-placeholder {
+	color: green !important;
+}
+
+textarea:-moz-placeholder { /* Firefox 18- */
+	color: green !important;
+}
+
+textarea::-moz-placeholder {  /* Firefox 19+ */
+	color: green !important;
+}
+
+textarea:-ms-input-placeholder {
+	color: green !important;
+}

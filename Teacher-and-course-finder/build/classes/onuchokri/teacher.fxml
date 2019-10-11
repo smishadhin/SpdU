@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="onuchokri.teacherlistviewr">
+   <children>
+      <TableView fx:id="teachertable" layoutX="60.0" layoutY="38.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <columns>
+          <TableColumn fx:id="justteacherinitialcolm" prefWidth="279.0" text="Teacher Initial" />
+          <TableColumn fx:id="justtehacherIdcolm" minWidth="0.0" prefWidth="315.0" text="Teacher ID" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

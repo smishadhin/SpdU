@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Teacher Qualifier</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="title_activity_login__info">Login_InfoActivity</string>
+    <string name="title_activity_first_apply">FirstApplyActivity</string>
+    <string name="title_activity_exam">ExamActivity</string>
+    <string name="title_activity_quality_training_resource">QualityTrainingResourceActivity</string>
+    <string name="title_activity_quality_exam">QualityExamActivity</string>
+    <string name="title_activity_quality_video_conference">QualityVideoConferenceActivity</string>
+    <string name="title_activity_research_lab">ResearchLabActivity</string>
+    <string name="title_activity_fotget_password">FotgetPasswordActivity</string>
+</resources>

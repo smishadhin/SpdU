@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.shovan21.hackaton.Login_InfoActivity"
+    tools:showIn="@layout/activity_login__info">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Profile"
+        android:id="@+id/buttonProfile"
+        android:onClick="LoginFragment"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/buttonShare"
+        android:layout_alignStart="@+id/buttonShare"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Improve Quality"
+        android:id="@+id/buttonQuality"
+        android:layout_below="@+id/buttonProfile"
+        android:layout_alignRight="@+id/buttonProfile"
+        android:layout_alignEnd="@+id/buttonProfile"
+        android:layout_alignLeft="@+id/buttonCommunication"
+        android:layout_alignStart="@+id/buttonCommunication"
+        android:onClick="LoginFragment"
+        android:textSize="10dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Share Idea"
+        android:id="@+id/buttonShare"
+        android:layout_below="@+id/buttonQuality"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/buttonCommunication"
+        android:layout_alignStart="@+id/buttonCommunication"
+        android:onClick="LoginFragment" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Communication"
+        android:id="@+id/buttonCommunication"
+        android:layout_below="@+id/buttonShare"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="LoginFragment" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Events"
+        android:id="@+id/buttonEvents"
+        android:layout_below="@+id/buttonCommunication"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/buttonCommunication"
+        android:layout_alignStart="@+id/buttonCommunication"
+        android:onClick="LoginFragment" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Library"
+        android:id="@+id/buttonLibrary"
+        android:layout_below="@+id/buttonEvents"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/buttonCommunication"
+        android:layout_alignStart="@+id/buttonCommunication"
+        android:onClick="LoginFragment" />
+
+    <fragment
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:name="com.example.shovan21.hackaton.Login_fag_empty"
+        android:id="@+id/fragment2"
+        android:layout_alignTop="@+id/buttonProfile"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/buttonProfile"
+        android:layout_toStartOf="@+id/buttonProfile" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:id="@+id/buttonLogout"
+        android:layout_alignBottom="@+id/fragment2"
+        android:layout_alignRight="@+id/buttonLibrary"
+        android:layout_alignEnd="@+id/buttonLibrary"
+        android:onClick="LoginFragment" />
+
+</RelativeLayout>

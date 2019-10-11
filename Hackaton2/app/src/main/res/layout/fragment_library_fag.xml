@@ -1,0 +1,179 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shovan21.hackaton.Library_fag">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Primary School"
+            android:id="@+id/buttonPrimarySchool"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="High School"
+            android:id="@+id/buttonHighSchool"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/buttonPrimarySchool"
+            android:layout_toEndOf="@+id/buttonPrimarySchool" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="College"
+            android:id="@+id/buttonCollege"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/buttonHighSchool"
+            android:layout_toEndOf="@+id/buttonHighSchool" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewPri1"
+            android:layout_below="@+id/buttonPrimarySchool"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="29dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewPri2"
+            android:layout_below="@+id/textViewPri1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewPri3"
+            android:layout_below="@+id/textViewPri2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewPri4"
+            android:layout_below="@+id/textViewPri3"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewPri5"
+            android:layout_below="@+id/textViewPri4"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewHigh1"
+            android:layout_above="@+id/textViewPri2"
+            android:layout_alignLeft="@+id/buttonHighSchool"
+            android:layout_alignStart="@+id/buttonHighSchool" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewHigh2"
+            android:layout_below="@+id/textViewHigh1"
+            android:layout_alignLeft="@+id/textViewHigh1"
+            android:layout_alignStart="@+id/textViewHigh1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewHigh3"
+            android:layout_above="@+id/textViewPri4"
+            android:layout_alignLeft="@+id/textViewHigh2"
+            android:layout_alignStart="@+id/textViewHigh2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewHigh4"
+            android:layout_above="@+id/textViewPri5"
+            android:layout_alignLeft="@+id/textViewHigh3"
+            android:layout_alignStart="@+id/textViewHigh3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewHigh5"
+            android:layout_alignBottom="@+id/textViewPri5"
+            android:layout_alignLeft="@+id/textViewHigh4"
+            android:layout_alignStart="@+id/textViewHigh4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewCollaga1"
+            android:layout_alignBottom="@+id/textViewHigh2"
+            android:layout_alignLeft="@+id/buttonCollege"
+            android:layout_alignStart="@+id/buttonCollege" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewCollaga2"
+            android:layout_below="@+id/textViewCollaga1"
+            android:layout_alignLeft="@+id/textViewCollaga1"
+            android:layout_alignStart="@+id/textViewCollaga1" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ok"
+            android:id="@+id/buttonOkLib"
+            android:layout_below="@+id/textViewPri5"
+            android:layout_toRightOf="@+id/searchView3"
+            android:layout_toEndOf="@+id/searchView3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textViewSearchBook"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/textViewCollaga2"
+            android:layout_toStartOf="@+id/textViewCollaga2"
+            android:layout_marginBottom="26dp" />
+
+        <SearchView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/searchView3"
+            android:queryHint="Book Name"
+            android:layout_alignTop="@+id/buttonOkLib"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+</FrameLayout>

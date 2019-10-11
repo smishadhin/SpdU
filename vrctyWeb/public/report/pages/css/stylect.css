@@ -1,0 +1,47 @@
+
+.course_details_info{
+background: #e8e8e8 none repeat scroll 0 0;
+border: 2px solid #fff;
+border-radius: 5px;
+box-shadow: initial;
+margin: 0 50px 0 auto;
+width: 93%;
+}
+
+.course_contant_info{
+padding: 50px 10px;
+border: 2px solid #BBBABA;
+}
+
+.course_table_info{
+border-collapse: collapse;
+font-family: arial,sans-serif;
+margin-bottom: 15px;
+margin-top: 15px;
+width: 100%;
+}
+.course_table_info input[type=checkbox]{
+margin-right: 5px;
+}
+
+.course_table_info tr{}
+.course_table_info td,th{    
+border: 2px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+

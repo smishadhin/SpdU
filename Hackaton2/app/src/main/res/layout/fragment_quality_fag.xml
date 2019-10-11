@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shovan21.hackaton.Quality_fag">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EXAM"
+            android:id="@+id/buttonTrainingExam"
+            android:layout_centerVertical="true"
+            android:layout_alignLeft="@+id/buttonTRAININGRESOURCE"
+            android:layout_alignStart="@+id/buttonTRAININGRESOURCE"
+            android:layout_alignRight="@+id/buttonTRAININGRESOURCE"
+            android:layout_alignEnd="@+id/buttonTRAININGRESOURCE" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VIDEO CONFERENCE"
+            android:id="@+id/buttonVIDEOCONFERENCE"
+            android:layout_marginTop="33dp"
+            android:layout_below="@+id/buttonTrainingExam"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RESOURCE"
+            android:id="@+id/buttonTRAININGRESOURCE"
+            android:layout_marginBottom="29dp"
+            android:layout_above="@+id/buttonTrainingExam"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</FrameLayout>
